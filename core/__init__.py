@@ -1,0 +1,2 @@
+class AutorViewSet:
+    pass
